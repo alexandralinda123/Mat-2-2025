@@ -4,3 +4,10 @@ body {
 header{
     background-color: pink;
 }
+#pata1 {
+    width:128.03%;
+    height:128.03%;
+    padding: left 20%;
+    padding: right 80%;
+
+}
